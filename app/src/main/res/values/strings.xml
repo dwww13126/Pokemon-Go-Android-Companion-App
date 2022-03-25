@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UOW Raiders</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Raids</string>
+    <string name="title_settings">Settings</string>
+    <string name="textview_user_level">Level</string>
+    <string name="textvies_user_team">Team</string>
+    <string name="textview_user_gyms">Favourite Gyms</string>
+    <string name="user_team_radio_Instinct">Instinct</string>
+    <string name="user_team_radio_Mystic">Mystic</string>
+    <string name="user_team_radio_Valor">Valor</string>
+    <string name="Btn_choose_gyms">Choose your Favourite Gyms</string>
+    <string name="all_gyms_title">There are ten gyms in UoW</string>
+    <string-array name="user_gyms">
+        <item>Bus Stop Hillcrest Rd</item>
+        <item>Chin Up</item>
+        <item>Clock Tower</item>
+        <item>FeatherWeight</item>
+        <item>Greensboro Reserve</item>
+        <item>Step Up Exercise Station</item>
+        <item>Student Centre</item>
+        <item>Te Raakau Kotahi</item>
+        <item>The Don</item>
+        <item>The Last of the Just</item>
+    </string-array>
+    <string name="host_options">Host Options</string>
+    <string name="host_option_time">Jump in Time</string>
+    <string name="host_option_update">Changing Status to Hatched</string>
+    <string name="submit">Submit</string>
+    <string-array name="Expression_Options">
+        <item>Interested</item>
+        <item>Coming if enough people</item>
+        <item>Confirmed</item>
+        <item>On My Way!</item>
+        <item>Ready to Jump in!</item>
+        <item>Jumped in!</item>
+        <item>No Longer Interested</item>
+    </string-array>
+    <string name="Setting_subtitle">Notification Settings</string>
+    <string name="setting_option1">Raid at Favourite Gym</string>
+    <string name="setting_option2">Raid with at least [] people interested</string>
+    <string name="setting_option3">Raid I am interested in has hatched a pokemon</string>
+    <string name="setting_option4">Raid I am interested in is confirmed to happen</string>
+    <string name="setting_option5">Raid I am interested in has had jump time set</string>
+    <string name="setting_option6">Hosted Raid pokemon has hatched</string>
+    <string name="setting_option7">Hosted Raid is ready to jump in</string>
+
+</resources>

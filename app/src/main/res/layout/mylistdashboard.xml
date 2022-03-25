@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/Dash_raidBoarder"
+            android:layout_width="450dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_background_pokemon"></ImageView>
+        <ImageView
+            android:id="@+id/stars_dash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/ic_stars0"/>
+
+        <TextView
+            android:id="@+id/raidName"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Raid Name"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="11dp"/>
+        <TextView
+            android:id="@+id/raidTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 00:00"
+            android:textSize="16dp"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="65dp"/>
+        <TextView
+            android:id="@+id/raidPlayers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Interested Players: 0"
+            android:textSize="16dp"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="85dp"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

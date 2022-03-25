@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#660000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="horizontalLine">#c0c0c0</color>
+    <color name="background">#484058</color>
+    <color name="transparent">#00555555</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ComingIfEnoughPeopleClr">@android:color/darker_gray</color>
+    <color name="ConfirmedClr">@android:color/holo_green_light</color>
+    <color name="OnMyWayClr">@android:color/holo_orange_light</color>
+    <color name="ReadyJumpClr">@android:color/holo_blue_light</color>
+    <color name="JumpedInClr">@android:color/holo_blue_dark</color>
+
+</resources>
